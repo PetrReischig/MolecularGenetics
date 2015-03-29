@@ -1,3 +1,3 @@
 #Molecular genetics - mutations of DNA
 
-Web application for simulation of DNA mutations.
+Web application for the simulation of DNA mutations.
